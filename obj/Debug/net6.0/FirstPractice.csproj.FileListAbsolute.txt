@@ -1,0 +1,15 @@
+/Users/liuliu/Projects/FirstPractice/FirstPractice/bin/Debug/net6.0/FirstPractice
+/Users/liuliu/Projects/FirstPractice/FirstPractice/bin/Debug/net6.0/FirstPractice.deps.json
+/Users/liuliu/Projects/FirstPractice/FirstPractice/bin/Debug/net6.0/FirstPractice.runtimeconfig.json
+/Users/liuliu/Projects/FirstPractice/FirstPractice/bin/Debug/net6.0/FirstPractice.dll
+/Users/liuliu/Projects/FirstPractice/FirstPractice/bin/Debug/net6.0/FirstPractice.pdb
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/FirstPractice.csproj.AssemblyReference.cache
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/FirstPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/FirstPractice.AssemblyInfoInputs.cache
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/FirstPractice.AssemblyInfo.cs
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/FirstPractice.csproj.CoreCompileInputs.cache
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/FirstPractice.dll
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/refint/FirstPractice.dll
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/FirstPractice.pdb
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/FirstPractice.genruntimeconfig.cache
+/Users/liuliu/Projects/FirstPractice/FirstPractice/obj/Debug/net6.0/ref/FirstPractice.dll
